@@ -45,7 +45,6 @@
     </style>
 </head>
 <body class="bg-brandCream min-h-screen antialiased selection:bg-brandSage selection:text-brandDark">
-I will now fix the link behavior for "Campaña" so that it either opens your Instagram page correctly or scrolls smoothly to the campaign video section on the page.
 
 index.html:Más Agua a la Sopa - Fundación (Fix Nav Link):index.html
 
